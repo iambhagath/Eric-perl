@@ -30,14 +30,3 @@ my $bigg = 4465767565898544462;
 # print $bigg;
 
 print($bigg + 1)
-
-@ages = (33, 31, 27);			
-@names = ("Geeks", "for", "Geeks");
-
-# displaying result
-print "\$ages[0] = $ages[0]\n";
-print "\$ages[1] = $ages[1]\n";
-print "\$ages[2] = $ages[2]\n";
-print "\$names[0] = $names[0]\n";
-print "\$names[1] = $names[1]\n";
-print "\$names[2] = $names[2]\n";
